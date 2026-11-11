@@ -43,6 +43,15 @@ BrainAI is a small Python web application built with Flask. It serves a chat pag
 └── static/             # Frontend assets, if present
 ```
 
+## Clone the repository
+
+This repository is public and can be cloned with Git:
+
+```bash
+git clone https://github.com/sor1209/python-BrainAI.git
+cd python-BrainAI
+```
+
 ## Setup
 
 ### Requirements
